@@ -3,7 +3,7 @@ const toFahrenheit = document.getElementById("toFahrenheit");
 const toCelsius = document.getElementById("toCelsius");
 const result = document.getElementById("result");
 let num;
-function convert()
+function convert() 
 {
     if(toFahrenheit.checked)
     {
